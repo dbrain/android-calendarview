@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true" android:drawable="@drawable/selected_background" />
+    <item>
+        <shape>
+	        <corners android:radius="9dp" />
+	        <gradient android:startColor="#cccccc"
+	              android:endColor="#999999"
+	              android:angle="90" />
+        </shape>
+    </item>
+</selector>

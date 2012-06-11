@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CalendarView</string>
+    <string name="current_month_placeholder">January 1970</string>
+    <string name="previous_month_placeholder">&lt;&lt;</string>
+    <string name="next_month_placeholder">&gt;&gt;</string>
+    <string-array name="days_array">
+        <item>M</item>
+        <item>T</item>
+        <item>W</item>
+        <item>T</item>
+        <item>F</item>
+        <item>S</item>
+        <item>S</item>
+    </string-array>
+</resources>
